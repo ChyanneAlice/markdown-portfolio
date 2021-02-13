@@ -1,1 +1,1 @@
-[text] https://github.com/ChyanneAlice
+[text](https://example.com)
